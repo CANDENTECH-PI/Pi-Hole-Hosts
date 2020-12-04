@@ -31,7 +31,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 nhl.com
 0.0.0.0 nfl.com
 0.0.0.0 spiceworks.com
-
+0.0.0.0 amazon.ca
+0.0.0.0 youtube.com
 
 # End yoyo.org
 
